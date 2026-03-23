@@ -1,0 +1,20 @@
+{
+  "runName": "20260323-1717-osaka-v1-fix",
+  "scene": "osaka-v1-fix",
+  "format": "square",
+  "aspectRatio": "1:1",
+  "variations": 3,
+  "maxRefs": 3,
+  "refs": [
+    "refs/soy/Soy_360turn.png",
+    "refs/mochi/Mochi_360turn.png",
+    "refs/together/osaka-v001-approved.png"
+  ],
+  "prompt": "Cute comic illustration style. Clean outlines. Warm, slightly saturated colors.\nNOT photorealistic. Characters have large expressive eyes, soft rounded shapes,\nconsistent line weight. No text, no watermarks, no logos. Clean composition.\n\nReproduce the reference image (osaka-v001-approved.png) EXACTLY. Same composition, same poses, same background, same colors, same lighting, same everything.\n\nMake ONLY these two changes:\n\n1. OUTLINES: The lines forming the eyes, nose, and mouth of both Soy and Mochi must be pure solid BLACK. Not dark brown, not dark red — pure black outline strokes only.\n\n2. MOCHI'S CHEEKS: Replace the cheek markings with exactly what is shown on Mochi's 360-degree turn sheet — two small pink swirl/spiral marks, one on each cheek. Match the shape, size, and color of the swirls from the turn sheet precisely.\n\nDo not change anything else. Same scene, same characters, same art style, same background, same poses.",
+  "generatedAt": "2026-03-23T04:21:11.573Z",
+  "outputs": [
+    "v001.png",
+    "v002.png",
+    "v003.png"
+  ]
+}

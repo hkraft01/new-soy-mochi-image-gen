@@ -1,0 +1,18 @@
+{
+  "runName": "20260323-1651-osaka",
+  "scene": "osaka",
+  "format": "square",
+  "aspectRatio": "1:1",
+  "variations": 2,
+  "maxRefs": 2,
+  "refs": [
+    "refs/soy/Soy_360turn.png",
+    "refs/mochi/Mochi_360turn.png"
+  ],
+  "prompt": "Cute comic illustration style. Clean outlines. Warm, slightly saturated colors.\nNOT photorealistic. Characters have large expressive eyes, soft rounded shapes,\nconsistent line weight. No text, no watermarks, no logos. Clean composition.\n\nSoy (a cute red fox with a fluffy tail and a small heart marking on chest) and Mochi (a round chubby hamster with a colorful pastel scarf) are having fun together in Osaka, Japan. They are exploring the vibrant Dotonbori district at golden hour — colorful lanterns and neon signs glow behind them, takoyaki stalls line the canal. Soy looks excited and is pointing at something, Mochi is holding a tiny takoyaki skewer with wide happy eyes. Warm, joyful mood. Single wide scene, both characters clearly visible.",
+  "generatedAt": "2026-03-23T03:53:27.683Z",
+  "outputs": [
+    "v001.png",
+    "v002.png"
+  ]
+}

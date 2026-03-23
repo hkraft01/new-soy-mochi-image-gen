@@ -62,9 +62,10 @@ function collectRefs(subdir) {
     .map(f => path.join(dir, f));
 }
 
-const soyRefs   = collectRefs('soy');
-const mochiRefs = collectRefs('mochi');
-const allRefs   = [...soyRefs, ...mochiRefs].slice(0, maxRefs);
+const soyRefs      = collectRefs('soy');
+const mochiRefs    = collectRefs('mochi');
+const togetherRefs = collectRefs('together');
+const allRefs      = [...soyRefs, ...mochiRefs, ...togetherRefs].slice(0, maxRefs);
 
 console.log(`\nRefs loaded: ${allRefs.length} (max ${maxRefs})`);
 allRefs.forEach(r => console.log(`  • ${path.relative(ROOT, r)}`));
