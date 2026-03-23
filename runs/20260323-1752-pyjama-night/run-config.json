@@ -1,0 +1,19 @@
+{
+  "runName": "20260323-1752-pyjama-night",
+  "scene": "pyjama-night",
+  "format": "widescreen",
+  "aspectRatio": "3:2",
+  "variations": 3,
+  "maxRefs": 2,
+  "refs": [
+    "refs/soy/Soy_360turn.png",
+    "refs/mochi/Mochi_360turn.png"
+  ],
+  "prompt": "Cute comic illustration style. Clean outlines. Warm, slightly saturated colors.\nNOT photorealistic. Characters have large expressive eyes, soft rounded shapes,\nconsistent line weight. No text, no watermarks, no logos. Clean composition.\n\nSoy (a cute red fox with fluffy tail, small heart marking on chest) and Mochi (a round chubby hamster with pink swirl cheek marks) are snuggled closely together in bed, full frontal view facing the viewer directly. Both are wearing cute cozy pyjamas. They are tucked under a fluffy soft blanket covered in a repeating donut pattern. They are looking at a phone together — Soy is holding the phone up and both are laughing with big open happy expressions. Mochi is pointing at the phone screen with one small paw. They are cuddled very close together, shoulders touching.\n\nTo the LEFT side of the bed, there is a small bedside table with:\n- A lamp shaped like a muffin (with a little swirly frosting top), glowing with soft warm light\n- A small cute potted plant — the plant pot has two little eyes and a smiling mouth drawn on it\n\nThe room atmosphere is soft, cozy, and slightly dimmed — it is night time. The lighting comes mainly from the muffin lamp and the phone screen glow, giving a warm intimate feel. Bedroom setting, simple and cute background, not too busy.\n\nCHARACTER STYLE RULES (apply exactly):\n- Body/fur/ear/tail outlines: dark maroon (warm reddish-brown), NOT black\n- Eye lines, nose lines, mouth lines: pure solid BLACK\n- Mochi's nose: small downward-pointing triangle shape\n- Mochi's cheeks: two pink swirl/spiral marks on each cheek\n- Soy's heart marking on chest visible on pyjamas or peeking through\n\nCute comic illustration style. Clean lines. Warm, slightly saturated colors. No photorealism. No text, no watermarks.",
+  "generatedAt": "2026-03-23T04:55:45.240Z",
+  "outputs": [
+    "v001.png",
+    "v002.png",
+    "v003.png"
+  ]
+}

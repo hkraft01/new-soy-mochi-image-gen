@@ -32,12 +32,15 @@ const dryRun     = has('--dry-run');
 
 // ── Aspect ratio map ─────────────────────────────────────────────────────────
 const aspectRatios = {
-  square:    '1:1',
-  portrait:  '3:4',
-  landscape: '4:3',
-  story:     '9:16',
+  square:     '1:1',
+  portrait:   '3:4',
+  landscape:  '4:3',
+  widescreen: '3:2',
+  story:      '9:16',
 };
-const aspectRatio = aspectRatios[format] || '1:1';
+// Allow --aspect-ratio to override the format map (e.g. --aspect-ratio 3:2)
+const customRatio = get('--aspect-ratio', null);
+const aspectRatio = customRatio || aspectRatios[format] || '1:1';
 
 // ── Build run directory ──────────────────────────────────────────────────────
 const now = new Date();

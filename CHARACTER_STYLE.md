@@ -26,9 +26,34 @@ These are the confirmed style standards for this project, refined through the fi
 
 ---
 
-## Background & Scene
+## Expressions
+
+- Expressions should be warm and happy but **understated** — soft smiles, gently curved eyes. Never wide-open mouths or intense exaggerated faces.
+- Think "quietly delighted" not "laughing out loud".
+- When one character is more expressive (e.g. jumping), the other can be calm and warm — contrast works well.
+
+---
+
+## Poses & Movement
+
+- **Jumping/hopping**: a small light hop with paws raised reads as cuter and more on-brand than a big exaggerated jump. Feet just off the ground, arms up slightly. Think "delighted little bounce".
+- The middle variation (v2) tends to land best — not the most conservative nor the most extreme.
+- When iterating on poses, anchor tightly to the approved image and describe only the specific change.
+
+---
+
+## Pyjamas
+
+- Simple is better — subtle pastel rainbow stripes work well. Avoid busy patterns or anything that competes with the characters' own colors.
+- Both characters wear matching or coordinating pyjamas.
+
+---
+
+## Scene & Background
 
 - Background colors should be warm but NOT overpowering. Soft golden/pastel tones preferred. Avoid backgrounds that are too saturated or dominant — the characters should always be the focal point.
+- Architectural details (doors, windows, furniture) should be simple and clean — avoid accidental duplicates (e.g. two doors). Always specify "one door" / "one window" explicitly if the scene includes them.
+- For indoor scenes: warm lamplight, cosy textures, small cute details (smiley plant pots, donut blankets, muffin lamps) all work great.
 
 ---
 

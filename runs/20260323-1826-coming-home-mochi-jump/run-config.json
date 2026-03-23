@@ -1,0 +1,20 @@
+{
+  "runName": "20260323-1826-coming-home-mochi-jump",
+  "scene": "coming-home-mochi-jump",
+  "format": "widescreen",
+  "aspectRatio": "3:2",
+  "variations": 3,
+  "maxRefs": 3,
+  "refs": [
+    "refs/soy/Soy_360turn.png",
+    "refs/mochi/Mochi_360turn.png",
+    "refs/together/coming-home-v3-approved.png"
+  ],
+  "prompt": "Cute comic illustration style. Clean outlines. Warm, slightly saturated colors.\nNOT photorealistic. Characters have large expressive eyes, soft rounded shapes,\nconsistent line weight. No text, no watermarks, no logos. Clean composition.\n\nReproduce the reference image (coming-home-v3-approved.png) EXACTLY. Same hallway, same coat hooks, same shoe rack, same warm lighting, same Soy pose and coat.\n\nMake ONLY these two changes:\n\n1. DOOR: The front door behind them is now fully CLOSED. No gap, no dark outside visible. Just a closed wooden front door. The hallway feels sealed and warm.\n\n2. MOCHI IS JUMPING: Mochi is mid-jump — both feet off the ground, slightly in the air, arms/paws raised with joy. The jump is light and happy, not wild or extreme — think a small delighted hop, like \"yay we're home!\" Energy is warm and cheerful but still cute and soft. Mochi's expression matches: a big warm smile, eyes curved with happiness. Keep Mochi's round chubby shape, swirl cheek marks, triangle nose, and blue jacket mid-removal.\n\nDo not change anything else.\n\nCHARACTER STYLE RULES:\n- Body/fur outlines: dark maroon, NOT black\n- Eye lines, nose, mouth: pure solid BLACK\n- Mochi's nose: small downward-pointing triangle\n- Mochi's cheeks: two pink swirl marks",
+  "generatedAt": "2026-03-23T05:30:42.475Z",
+  "outputs": [
+    "v001.png",
+    "v002.png",
+    "v003.png"
+  ]
+}
