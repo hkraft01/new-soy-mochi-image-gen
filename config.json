@@ -1,0 +1,18 @@
+{
+  "gemini": {
+    "apiKeyEnv": "GEMINI_API_KEY",
+    "model": "gemini-2.0-flash-exp",
+    "scriptPath": "/opt/homebrew/lib/node_modules/openclaw/skills/nano-banana-pro/scripts/generate_image.py"
+  },
+  "defaults": {
+    "variations": 2,
+    "format": "square",
+    "maxRefs": 2,
+    "minRatingForPromotion": 4
+  },
+  "dirs": {
+    "runs": "runs",
+    "refs": "refs",
+    "scenes": "prompts/scenes"
+  }
+}
